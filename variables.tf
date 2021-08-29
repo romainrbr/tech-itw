@@ -12,7 +12,6 @@ variable "GBFS_endpoints" {
     }
     bergen = {
       "url"  = "http://gbfs.urbansharing.com/bergenbysykkel.no/station_information.json"
-      "name" = "bergen"
     }
   }
 }
