@@ -6,12 +6,12 @@ This code allows you to deploy a Lambda function to AWS that will scrape a GBFS 
 
 ## Python script
 
-The python code is stored in the `./src` folder.
-`lambda_function.py` is the script itself.
-`requirements.txt` contains the needed modules to run the lambda script.
-`requirements-tests.txt` contains the needed modules to run the tests.
-`tests.py` contains the tests.
-`./testFiles` contains `.json` files used to mock GBFS endpoints.
+- The python code is stored in the `./src` folder.
+- `lambda_function.py` is the script itself.
+- `requirements.txt` contains the needed modules to run the lambda script.
+- `requirements-tests.txt` contains the needed modules to run the tests.
+- `tests.py` contains the tests.
+- `./testFiles` contains `.json` files used to mock GBFS endpoints.
 
 ### Run the script
 
