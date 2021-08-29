@@ -103,14 +103,14 @@ resource "aws_iam_role_policy" "s3_put" {
     "Statement" : [
       {
         "Effect" : "Allow",
+        "Action" : ["s3:ListBucket"],
+        "Resource" : ["arn:aws:s3:::${var.GBFS_bucket}"]
+      },
+      {
+        "Effect" : "Allow",
         "Action" : [
-          "s3:PutObject",
-          "s3:ListBucket"
-        ],
-        "Resource" : [
-          "arn:aws:s3:::*/*",
-          "arn:aws:s3:::gbfsdata"
-        ]
+        "s3:PutObject"],
+        "Resource" : ["arn:aws:s3:::${var.GBFS_bucket}/*"]
       }
     ]
   })
