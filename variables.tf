@@ -11,7 +11,7 @@ variable "GBFS_endpoints" {
       "url" = "https://mds.bird.co/gbfs/tempe/free_bike_status.json"
     }
     bergen = {
-      "url"  = "http://gbfs.urbansharing.com/bergenbysykkel.no/station_information.json"
+      "url" = "http://gbfs.urbansharing.com/bergenbysykkel.no/station_information.json"
     }
   }
 }
