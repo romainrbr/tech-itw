@@ -15,7 +15,6 @@ resource "random_uuid" "lambda_src_hash" {
     for filename in setunion(
       fileset(local.lambda_src_path, "*.py"),
       fileset(local.lambda_src_path, "requirements.txt"),
-      fileset(local.lambda_src_path, "core/**/*.py")
     ) :
     filename => filemd5("${local.lambda_src_path}/${filename}")
   }
@@ -38,7 +37,6 @@ data "archive_file" "lambda_source_package" {
   output_path = "${path.module}/.tmp/${random_uuid.lambda_src_hash.result}.zip"
   excludes = [
     "__pycache__",
-    "core/__pycache__",
     "tests.py",
     "testFiles/",
     "requirements-tests.txt"
@@ -108,8 +106,7 @@ resource "aws_iam_role_policy" "s3_put" {
       },
       {
         "Effect" : "Allow",
-        "Action" : [
-        "s3:PutObject"],
+        "Action" : ["s3:PutObject"],
         "Resource" : ["arn:aws:s3:::${var.GBFS_bucket}/*"]
       }
     ]
