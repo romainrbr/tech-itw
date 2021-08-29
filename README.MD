@@ -1,24 +1,24 @@
 # ingestGBFSData
 
-This code allows you to deploy a Lambda function to AWS that will scrape a GBFS endpoint every minute, and store it's content in a S3 bucket of your chosing.
+This code allows you to deploy a Lambda function to AWS that will scrape a GBFS endpoint every minute, and store its content in a S3 bucket of your choice.
 
 
 
 ## Python script
 
-The python code is store in the `./src` folder.
-`lambda_function.py` is the script itself
+The python code is stored in the `./src` folder.
+`lambda_function.py` is the script itself.
 `requirements.txt` contains the needed modules to run the lambda script.
 `requirements-tests.txt` contains the needed modules to run the tests.
-`tests.py` contains the tests
-`./testFiles` contains `.json` files used to mock GBFS endpoints
+`tests.py` contains the tests.
+`./testFiles` contains `.json` files used to mock GBFS endpoints.
 
 ### Run the script
 
 To run the script, the Lambda function needs three parameters, set as env values:
-- `endpointUrl` : url of the endpoint to scrape (ex: `https://velib-metropole-opendata.smoove.pro/opendata/Velib_Metropole/station_status.json`)
-- `endpointName` : name of the endpoint to be scrapped (ex : `paris`)
-- `bucketName` : the name of the bucket in which the GBFS files will be saved
+- `endpointUrl` : url of the endpoint(s) to scrape (ex: `https://velib-metropole-opendata.smoove.pro/opendata/Velib_Metropole/station_status.json`)
+- `endpointName` : name of the endpoint(s) to be scrapped (ex : `paris`)
+- `bucketName` : the name of the bucket in which the GBFS files will be saved (ex: `gbfsdata`)
 
 
 ### Test the script
@@ -45,7 +45,7 @@ To replicate the terraform setup :
 ## AWS
 
 The following services will be created on AWS : 
-- 1 S3 bucket, on which all endpoint will write
+- 1 S3 bucket, on which all endpoints will write
 - 1 Lambda script per endpoint to scrape
 - 1 Cloudwatch log group per endpoint to scrape (automatically created when launching a Lambda script)
 - 1 Cloudwatch event rule (to trigger the Lambda scripts every minute), associated with every Lambda script created
