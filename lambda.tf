@@ -153,7 +153,7 @@ resource "aws_cloudwatch_event_rule" "every_minute" {
 
 # Triggers the lambda script 
 resource "aws_cloudwatch_event_target" "gbfstrigger" {
-  for_each = var.GBFS_endpoints
+  for_each  = var.GBFS_endpoints
   rule      = aws_cloudwatch_event_rule.every_minute.name
   target_id = each.key
   arn       = aws_lambda_function.ingestGBFSData[each.key].arn
