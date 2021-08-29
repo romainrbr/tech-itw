@@ -1,0 +1,5049 @@
+{
+    "version": "1.1",
+    "data": {
+        "bikes": [
+            {
+                "bike_id": "18ce8f71-89c8-443c-90df-a03773f7ec65",
+                "lat": 33.432829,
+                "lon": -111.927215,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b411955d-93d2-432b-8836-ccd7752b639c",
+                "lat": 33.431011,
+                "lon": -111.942674,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "99d73be6-7311-4c4e-ac96-6e1580f51b24",
+                "lat": 33.434998,
+                "lon": -111.925347,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "db2aa45b-4943-4e88-b7a1-ab297c37f289",
+                "lat": 33.422371,
+                "lon": -111.948129,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8e021a05-1c3c-4458-b632-922c162694dc",
+                "lat": 33.429903,
+                "lon": -111.940221,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "cf78c5e5-9fc4-4579-b446-788ad5098d21",
+                "lat": 33.430501,
+                "lon": -111.941142,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5ef77b92-9bd9-4d83-9840-1fc784e06b8b",
+                "lat": 33.431986,
+                "lon": -111.940012,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "195ee03e-fc87-4c52-897c-2b6ac7b5549b",
+                "lat": 33.421807,
+                "lon": -111.954422,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "90e5ec5e-caf3-4c81-b187-5a8d5f6e9704",
+                "lat": 33.431286,
+                "lon": -111.942139,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7b7ee1c4-bc53-43f7-9305-630c3bb21609",
+                "lat": 33.421734,
+                "lon": -111.954388,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f0ef3c3f-750d-43ad-b432-0e63e1a0e25f",
+                "lat": 33.43127,
+                "lon": -111.941606,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3dd4db9f-6232-480a-824b-177f75fd722e",
+                "lat": 33.400123,
+                "lon": -111.928689,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0c315cbf-da64-4aeb-a4a2-86edc034270a",
+                "lat": 33.431277,
+                "lon": -111.941646,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3a9bb1d6-d08c-4d55-bc59-38138b725e88",
+                "lat": 33.414641,
+                "lon": -111.895743,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c9841f2f-b5ed-4237-8e7e-3019fb5f32ce",
+                "lat": 33.432183,
+                "lon": -111.949309,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b9b27e48-7c5b-4c00-9bc6-19c4d77feef3",
+                "lat": 33.392755,
+                "lon": -111.959367,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "334d7c49-33aa-492e-a68f-865150544778",
+                "lat": 33.441906,
+                "lon": -111.931892,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d038b89e-1fae-47cf-91d8-ecca204b6fc5",
+                "lat": 33.429248,
+                "lon": -111.940179,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "014ff7cc-3428-4b24-bff1-c179f4a457ab",
+                "lat": 33.433859,
+                "lon": -111.922227,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "aee8b8a7-66a0-43d1-8eca-11c0f28ece49",
+                "lat": 33.415866,
+                "lon": -111.904046,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e0176ee0-31d9-473f-8d65-3f004973bcdc",
+                "lat": 33.414686,
+                "lon": -111.953164,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "083b305d-b53b-4bff-b7f6-5d67ab8b6e2e",
+                "lat": 33.425594,
+                "lon": -111.940969,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "fde703bc-9c8d-40e3-a782-0d01a9cec1c3",
+                "lat": 33.430253,
+                "lon": -111.904379,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "993aa2ec-0764-4017-a876-0f0d4338f2ce",
+                "lat": 33.421917,
+                "lon": -111.94035,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "15c44519-2ad7-4ed1-8e86-5f1e7d535517",
+                "lat": 33.421954,
+                "lon": -111.894812,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "63a21025-be0e-44db-af6a-540b3a125b15",
+                "lat": 33.421451,
+                "lon": -111.940155,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "04dae7b1-0837-423b-8f5b-fba783e266f6",
+                "lat": 33.448118,
+                "lon": -111.926565,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "50d1f41d-570c-46c3-bef2-6ef9ae43359e",
+                "lat": 33.42294,
+                "lon": -111.938309,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "bf502047-4790-486b-9d29-cf3883b365a7",
+                "lat": 33.431355,
+                "lon": -111.937707,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9df11a26-e5fd-4b74-90ca-a009fcb451a4",
+                "lat": 33.43158,
+                "lon": -111.952409,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9db89834-c369-4cd9-b4be-ceb065ce1ceb",
+                "lat": 33.431746,
+                "lon": -111.941094,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f69c48ec-0a05-4c00-923a-1f0c103bc20d",
+                "lat": 33.423916,
+                "lon": -111.939857,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4390fd34-e445-4d41-8bab-9d97c38b92d6",
+                "lat": 33.424169,
+                "lon": -111.941432,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "469bfcd5-6f33-441e-9641-e2537667bf10",
+                "lat": 33.432925,
+                "lon": -111.95394,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "81b0bf9d-7b84-4908-b5af-96e419096a21",
+                "lat": 33.434418,
+                "lon": -111.934097,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e4f9bf90-4b66-4aff-b9c2-5d41e57c7641",
+                "lat": 33.435348,
+                "lon": -111.943207,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "18cdc18e-8603-443f-97a7-0cbf6f186af4",
+                "lat": 33.430343,
+                "lon": -111.941025,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a99ec558-555c-433c-a5bf-abdafc7a1049",
+                "lat": 33.419018,
+                "lon": -111.913666,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "112746b7-ccb7-4de8-896b-5f7ae994f75d",
+                "lat": 33.416751,
+                "lon": -111.925965,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e9fea6a8-b50c-4ab3-9133-7c0b4f21f607",
+                "lat": 33.431275,
+                "lon": -111.941407,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c87d6dae-3d7f-4c67-8b3e-e2a6c5ce1e1c",
+                "lat": 33.431973,
+                "lon": -111.942627,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c604712f-c616-42d0-82a8-9c7e29cd8523",
+                "lat": 33.431828,
+                "lon": -111.943055,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "72b21a7b-748b-4112-8881-b877fc19decd",
+                "lat": 33.418805,
+                "lon": -111.924797,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "41623444-8cd0-43db-b4e6-92d18c07af82",
+                "lat": 33.431115,
+                "lon": -111.943436,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9bbd0315-1a78-42d3-8bb3-69869683bb4a",
+                "lat": 33.427665,
+                "lon": -111.940125,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c119e5f3-c4d8-4848-8047-51882c48bb42",
+                "lat": 33.40591,
+                "lon": -111.920259,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "eae903df-7d8e-4c42-9741-610d59a39aaa",
+                "lat": 33.43116,
+                "lon": -111.939087,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b0023184-a9be-426c-9aab-cb63798bb1e9",
+                "lat": 33.445045,
+                "lon": -111.933045,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a924991e-991d-423f-809c-0ef765b3d35e",
+                "lat": 33.424169,
+                "lon": -111.941432,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8f4589de-5fd9-4f03-a7de-facdc664bf3f",
+                "lat": 33.424205,
+                "lon": -111.940148,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1deef3f1-7684-4b42-93d1-f1892bd5f7fb",
+                "lat": 33.42631,
+                "lon": -111.942978,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ebb3823e-97cd-4c20-bfff-1438eece7163",
+                "lat": 33.431491,
+                "lon": -111.94262,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f57a805b-4565-449f-9f39-e2cecb9e405a",
+                "lat": 33.431491,
+                "lon": -111.942544,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ad9fb5ac-1308-44ed-a886-62a423b836f6",
+                "lat": 33.432653,
+                "lon": -111.952384,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7aa57472-f2d6-44e2-9481-3d289dd5716a",
+                "lat": 33.431222,
+                "lon": -111.94188,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "784c15ae-8b85-4316-b0cc-8d43c7fad923",
+                "lat": 33.37537,
+                "lon": -111.941857,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "458bc1c8-266f-40bd-9114-e033c7603a18",
+                "lat": 33.43106,
+                "lon": -111.942642,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6191672c-6637-413e-90fd-0d0214c8e6c4",
+                "lat": 33.414958,
+                "lon": -111.925477,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e6b135f2-331b-41fd-895d-b3e68f7b355e",
+                "lat": 33.422108,
+                "lon": -111.912744,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "000ec48e-acbd-4fca-a289-b4a0dfb9911f",
+                "lat": 33.431376,
+                "lon": -111.942742,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4213701f-ece0-4086-adcb-c053e5ed4729",
+                "lat": 33.430509,
+                "lon": -111.941176,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ffbefd11-6073-4cf9-b95e-0a4a359e01e2",
+                "lat": 33.431865,
+                "lon": -111.943062,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c14cb42d-97f1-4e79-b96b-b6f9b56e3c9e",
+                "lat": 33.421807,
+                "lon": -111.954422,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "489e8ed6-c50e-4bc3-90a7-e724617b50bf",
+                "lat": 33.430483,
+                "lon": -111.941135,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "bd4d9a1d-42df-489e-beb4-2822155608c5",
+                "lat": 33.42199,
+                "lon": -111.904199,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "08d89e78-85d4-42f4-8ef5-840f130ab460",
+                "lat": 33.421771,
+                "lon": -111.954445,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ac505da0-2bf2-4333-85ef-07716c5f7687",
+                "lat": 33.424435,
+                "lon": -111.939812,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "aa5cc273-aa75-4614-bbc8-e26910c96640",
+                "lat": 33.429366,
+                "lon": -111.940183,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "02701520-c44a-48c3-a4c2-3300d5ef503b",
+                "lat": 33.439235,
+                "lon": -111.951707,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ac08c403-6c19-409d-9839-a2ec4c95ac8d",
+                "lat": 33.413629,
+                "lon": -111.930745,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "cd28c58a-1f84-442b-bae9-4bb226be538f",
+                "lat": 33.425007,
+                "lon": -111.940067,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "29dff54b-2916-4694-94ab-4d7f484fb84f",
+                "lat": 33.425594,
+                "lon": -111.940969,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8bf046c0-4ceb-47d9-959b-30b0693c7d84",
+                "lat": 33.42251,
+                "lon": -111.942218,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1c7da2e3-20d8-4e03-8ef4-77af9f66b939",
+                "lat": 33.431491,
+                "lon": -111.942636,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2713197c-e6a7-422c-b01b-8054d6e1d3af",
+                "lat": 33.431461,
+                "lon": -111.942657,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ec5bca7e-7ea7-40fc-9371-1b2dbf0a0e40",
+                "lat": 33.416606,
+                "lon": -111.922074,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "42d7dbf9-3db2-49ee-a642-d8e66830e454",
+                "lat": 33.42162,
+                "lon": -111.926102,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5ca717c5-084f-4844-bcd2-55b1c6cee0b7",
+                "lat": 33.434818,
+                "lon": -111.942405,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "77fe13f5-6e6a-40fe-a41d-482baca30d7c",
+                "lat": 33.421371,
+                "lon": -111.916805,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6c018094-a02e-4f60-91f8-508a95a29f79",
+                "lat": 33.429206,
+                "lon": -111.946686,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3ef05297-339e-4f9a-8d38-bc360d937c0d",
+                "lat": 33.43486,
+                "lon": -111.939866,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c9d81ee0-dfe1-4080-a51a-46870fd0fcbd",
+                "lat": 33.434761,
+                "lon": -111.943414,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "782460bc-a8f6-4d84-94d6-9b7722c938dc",
+                "lat": 33.417592,
+                "lon": -111.923292,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "7dad4621-c326-49a4-9bc7-4ed68b198286",
+                "lat": 33.428715,
+                "lon": -111.908295,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ea1f52f7-ca59-44b7-9dd1-6f475ca2167f",
+                "lat": 33.429903,
+                "lon": -111.940221,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6653ca60-b1dc-4321-98a1-58523cf9259c",
+                "lat": 33.409923,
+                "lon": -111.924974,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "189fa503-f1aa-4c61-9095-a29d6cdeee47",
+                "lat": 33.421813,
+                "lon": -111.941132,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9ce90e7b-c625-4a2c-a8e1-fa460fa25648",
+                "lat": 33.381855,
+                "lon": -111.927972,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3f8025f3-acff-4cda-8eb0-534490a9df1a",
+                "lat": 33.428104,
+                "lon": -111.947357,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "77f12f09-63f4-4bc1-98de-7eee8c0d25ab",
+                "lat": 33.41431,
+                "lon": -111.936471,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9db76695-8d8d-4f1b-ade9-19242b61357f",
+                "lat": 33.418666,
+                "lon": -111.913682,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4a1b1585-074a-4b78-aa25-5a48ba510a04",
+                "lat": 33.4267,
+                "lon": -111.939929,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "fee23be6-f017-42e1-a9e3-701ab81adbb0",
+                "lat": 33.422958,
+                "lon": -111.938469,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8490bce1-bbcd-4b95-be06-13df397ab01a",
+                "lat": 33.414517,
+                "lon": -111.920462,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "595eda4a-3d9a-4d0d-bacf-7146ad15c8fd",
+                "lat": 33.431986,
+                "lon": -111.940012,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a79f4760-7cbb-4ae9-a980-13f0cc304daa",
+                "lat": 33.442161,
+                "lon": -111.956505,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5cc460ea-eac4-436e-a48f-6285c180054f",
+                "lat": 33.427377,
+                "lon": -111.941154,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1bec565f-5b3a-488c-845e-993c53347096",
+                "lat": 33.427377,
+                "lon": -111.941154,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b326c186-f181-42dc-bcd0-3b7102e2b79e",
+                "lat": 33.431815,
+                "lon": -111.942238,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f32532d9-9f8d-4bf5-98d9-94d0ae95d26e",
+                "lat": 33.432925,
+                "lon": -111.95394,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7b5ddde6-c6f2-4e98-b47f-fe1e87d9a562",
+                "lat": 33.420285,
+                "lon": -111.930252,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6512db56-32d0-41b8-8a1f-a0576b0655ad",
+                "lat": 33.431506,
+                "lon": -111.942636,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "119fed96-0752-4153-b993-31acfd0d60ae",
+                "lat": 33.428955,
+                "lon": -111.942593,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "30e19fee-7055-4365-8ed7-b39604990c5c",
+                "lat": 33.423575,
+                "lon": -111.941222,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9711ad7e-8a24-4657-931a-ba6d16d8d79d",
+                "lat": 33.409053,
+                "lon": -111.923486,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9576f3ea-7cbc-44f6-9542-5cbba7faaed9",
+                "lat": 33.431376,
+                "lon": -111.932961,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "432df2fa-a142-4b4e-8fa1-0f4756dc5798",
+                "lat": 33.391555,
+                "lon": -111.946274,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f5755900-e8a3-41eb-8f5e-f0b0dfd149bb",
+                "lat": 33.413371,
+                "lon": -111.923149,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "fed6272c-1d0f-42b0-a731-266ad3a01268",
+                "lat": 33.423781,
+                "lon": -111.940072,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "650c1e2b-71a4-405b-b1c8-8c0d6f5d7e28",
+                "lat": 33.429863,
+                "lon": -111.940285,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "efde80a8-f621-4802-98d5-ea8d5f0f4910",
+                "lat": 33.425319,
+                "lon": -111.952161,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f9a8c834-86a9-4e37-b17f-34b71dd835da",
+                "lat": 33.414392,
+                "lon": -111.935023,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "75c57153-7e58-4ce6-b810-b50f8ab68ce8",
+                "lat": 33.374511,
+                "lon": -111.948472,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "703b22f6-ae36-44ef-ae0e-c4af6f18dbbf",
+                "lat": 33.415046,
+                "lon": -111.924584,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "28f6e274-94e6-4e47-b27c-8bf77611d4df",
+                "lat": 33.425594,
+                "lon": -111.940969,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "332b0c93-6765-4019-9056-79feecc45cc6",
+                "lat": 33.42631,
+                "lon": -111.942948,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7987ef65-4b34-4eca-b166-6c7eb9afff9f",
+                "lat": 33.414043,
+                "lon": -111.932717,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "5d4f2fd2-2d13-467f-b387-e50c5d34a3ba",
+                "lat": 33.430432,
+                "lon": -111.941038,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4fd92489-305a-47c9-8e61-d356444dff58",
+                "lat": 33.432293,
+                "lon": -111.949319,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5427028d-6d1f-451c-b029-1f359975e61b",
+                "lat": 33.430535,
+                "lon": -111.94117,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a1ffa15c-1fbe-4466-b5ba-178c1b6d8f4b",
+                "lat": 33.43,
+                "lon": -111.924454,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "36406d6a-5567-4825-953c-3cb4facf943e",
+                "lat": 33.431838,
+                "lon": -111.942239,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f5e2c3dc-f1d2-4ff5-a403-cf24e9851b2d",
+                "lat": 33.418743,
+                "lon": -111.922234,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "73e11eba-a9c8-4237-9ecb-517aceb6cb42",
+                "lat": 33.430342,
+                "lon": -111.949968,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "664dd81c-aaef-4712-a043-49db79794a1a",
+                "lat": 33.421917,
+                "lon": -111.94035,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "cb9a854a-123c-4d5a-bed1-261a64c5ed6a",
+                "lat": 33.42251,
+                "lon": -111.942218,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4f9e4846-1a08-4f1d-a2ef-c1e68a3c5e1f",
+                "lat": 33.370764,
+                "lon": -111.937594,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "243f5111-e9d5-47be-af17-97ace80eefb5",
+                "lat": 33.413655,
+                "lon": -111.924546,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b0e9a337-4c5c-4a03-9423-81c96b5fbfe2",
+                "lat": 33.424205,
+                "lon": -111.940148,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ab3af2c0-df74-4518-8903-253f810d90e8",
+                "lat": 33.424141,
+                "lon": -111.940104,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3e3d3891-956d-4255-a93f-4b47cc9b89fe",
+                "lat": 33.419196,
+                "lon": -111.924782,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7cfc6b4d-54a6-4a0d-a9fc-da9345ee36cb",
+                "lat": 33.414959,
+                "lon": -111.916295,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "23b841d9-ddfd-449e-ab34-78378351c8d0",
+                "lat": 33.427186,
+                "lon": -111.940199,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3d9b6eaf-27af-45a1-ace2-84c326d3fc45",
+                "lat": 33.421913,
+                "lon": -111.90264,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "37999015-8484-4ee4-934f-6e14ec4b7692",
+                "lat": 33.434925,
+                "lon": -111.941484,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8e094a23-86c0-402a-91fd-5a13b3228fe6",
+                "lat": 33.429277,
+                "lon": -111.940081,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "787d4a2f-1326-4b1b-a8eb-eab4ad50046a",
+                "lat": 33.42514,
+                "lon": -111.936715,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "38572db4-179b-4956-964c-dd5db205e015",
+                "lat": 33.431811,
+                "lon": -111.942255,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f1528037-c85e-4db3-b78d-2c64fe3bad5a",
+                "lat": 33.412445,
+                "lon": -111.959557,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b5c35a81-d2e7-4c43-8188-ec50928da55c",
+                "lat": 33.425376,
+                "lon": -111.940491,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c3d6c7d4-cd5a-4224-b20d-d67b71713dc9",
+                "lat": 33.4329,
+                "lon": -111.953347,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a78d3094-4360-496f-af81-3883bd413fb7",
+                "lat": 33.424095,
+                "lon": -111.967155,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "84dcb3b8-3fdc-428a-851b-6f08328e27d7",
+                "lat": 33.425346,
+                "lon": -111.936715,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "68f3e7fe-e9df-48f9-9d94-c643ca196301",
+                "lat": 33.432036,
+                "lon": -111.941079,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c66e1bac-4f5e-4051-b36b-209360e6252e",
+                "lat": 33.37835,
+                "lon": -111.973122,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e79f4e31-0d57-4784-b6a5-9c9a74cc3a10",
+                "lat": 33.43523,
+                "lon": -111.94223,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8b1dc0ec-1526-42ea-94ff-85051e3376af",
+                "lat": 33.421917,
+                "lon": -111.94035,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "dafdf076-edeb-4b9e-95b7-86d07b4eb58f",
+                "lat": 33.434738,
+                "lon": -111.942887,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "dfcf5976-da73-4a68-8126-0b6214d83588",
+                "lat": 33.417663,
+                "lon": -111.925934,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7548b5c7-015e-4e0c-924b-8b5feaba785e",
+                "lat": 33.423756,
+                "lon": -111.936754,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "17f0a102-552f-483f-a46f-23544a41570c",
+                "lat": 33.412866,
+                "lon": -111.953338,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "cd51d067-7a26-4d28-8875-c4caeb2d52c6",
+                "lat": 33.434923,
+                "lon": -111.941478,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d5b7c52e-49ef-4216-b4fa-cc3693a46688",
+                "lat": 33.426335,
+                "lon": -111.939925,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7fd2913f-710f-4be0-8746-779700645e25",
+                "lat": 33.426692,
+                "lon": -111.939909,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "3b8be03e-6139-4f94-b0a0-6ba9a7f0e6a9",
+                "lat": 33.391475,
+                "lon": -111.932457,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "748759ee-1923-4acd-a487-9bb717478e3c",
+                "lat": 33.431482,
+                "lon": -111.942592,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "08cd21a5-31cd-43f2-a5a1-289a9fa7374a",
+                "lat": 33.439544,
+                "lon": -111.950127,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "27fbf604-24b0-419c-942c-d04935b216f3",
+                "lat": 33.424949,
+                "lon": -111.941392,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "83a0364f-1005-4612-8417-7f2213f6c4fb",
+                "lat": 33.424983,
+                "lon": -111.940132,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f10d30cc-63df-4976-a36e-4632ecaef9a4",
+                "lat": 33.434086,
+                "lon": -111.921831,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "56714567-beeb-4391-9aee-14dddadf4d96",
+                "lat": 33.427599,
+                "lon": -111.93984,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "fe06b491-fadf-48b0-bdc3-4bd2efce5c0f",
+                "lat": 33.402851,
+                "lon": -111.91954,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "175f8705-bfa4-449a-811a-2f91efceb8c2",
+                "lat": 33.416518,
+                "lon": -111.904129,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "06d015c5-33c1-4888-8ec9-2304bc131d7f",
+                "lat": 33.431079,
+                "lon": -111.942679,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "480d5fe9-e586-4e66-a85b-f23a92235156",
+                "lat": 33.443433,
+                "lon": -111.910118,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "c2a8f5e6-a261-4ab3-8f79-c6d11ecfc7ce",
+                "lat": 33.424095,
+                "lon": -111.941277,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "53fb60b4-6978-4f60-8cf0-8d52913ca977",
+                "lat": 33.41851,
+                "lon": -111.922295,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9bad3446-7981-4922-a3b7-0e8567694836",
+                "lat": 33.419063,
+                "lon": -111.913559,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "337d1942-15fc-429f-b889-44f5291f182f",
+                "lat": 33.433178,
+                "lon": -111.926295,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "7b7d2233-ecf9-408a-8f55-ea81078e84ae",
+                "lat": 33.428909,
+                "lon": -111.929559,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "bfa68120-1bec-44fb-9bf1-e7f314491c17",
+                "lat": 33.431278,
+                "lon": -111.942139,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3419762e-b3c9-489b-bbd0-0347df93cc2a",
+                "lat": 33.425594,
+                "lon": -111.940969,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "77166525-b038-4899-9025-b2de25441072",
+                "lat": 33.431038,
+                "lon": -111.94265,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "b59571d5-7629-4f66-8bba-c4a618d667b9",
+                "lat": 33.420064,
+                "lon": -111.925964,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "6aa681e4-41cc-477d-84c3-bf678d79fc13",
+                "lat": 33.431278,
+                "lon": -111.942107,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3b544d75-945f-45d3-93a1-bfdfb43824fc",
+                "lat": 33.441531,
+                "lon": -111.927345,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4902ff3d-19c6-40c2-970a-532e8f37d357",
+                "lat": 33.431033,
+                "lon": -111.94268,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9e624da6-99dd-4cb7-9d25-9d35673bc37f",
+                "lat": 33.432426,
+                "lon": -111.949606,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "bb82370a-9707-403d-b208-857c474d2907",
+                "lat": 33.414646,
+                "lon": -111.908684,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "05c2e614-94a8-4ae0-985a-8a14a8ae7a83",
+                "lat": 33.43189,
+                "lon": -111.938098,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5e30f85b-2ba0-4b6b-9b4d-148c481532e1",
+                "lat": 33.424205,
+                "lon": -111.940148,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0ae0be20-ca94-4613-969f-083aa4fb005f",
+                "lat": 33.428955,
+                "lon": -111.942593,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2e161328-7f1f-49c2-8374-0b8625e3c594",
+                "lat": 33.431468,
+                "lon": -111.94268,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f0ca1a9d-f6a4-4974-9974-548cba231e2d",
+                "lat": 33.422553,
+                "lon": -111.942604,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c0509395-c625-4f91-9d0e-2590cda96730",
+                "lat": 33.434009,
+                "lon": -111.923036,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "6e29383b-8e74-4824-8279-51109d79daca",
+                "lat": 33.42297,
+                "lon": -111.939889,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "47db9b21-4e86-4e0f-8dc5-534405c4c5d4",
+                "lat": 33.434753,
+                "lon": -111.942506,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e4adcb46-e569-4685-97b3-e8bc7b658f35",
+                "lat": 33.443545,
+                "lon": -111.909983,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "2f367925-c4b2-4789-b20b-f737f8b54664",
+                "lat": 33.375858,
+                "lon": -111.941534,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c48a9e85-fdd7-4fb0-89f7-f3908072d3e3",
+                "lat": 33.430342,
+                "lon": -111.949968,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f9ebe8bd-3922-4560-b883-8e4f91fd2344",
+                "lat": 33.439965,
+                "lon": -111.931404,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d8e6ede1-96fc-42c6-ae0c-388bbc7fdcc2",
+                "lat": 33.432647,
+                "lon": -111.95241,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1c67a1ad-db07-4935-8307-d09e1ee09a8d",
+                "lat": 33.424169,
+                "lon": -111.941432,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "709b74e8-47f7-41ca-89f6-5cd7c537f125",
+                "lat": 33.41674,
+                "lon": -111.924637,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "12dc6bd4-3cb1-42ce-a755-55d3a33794c3",
+                "lat": 33.431228,
+                "lon": -111.942704,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0064dec5-ef49-43f0-94bc-ae6b656529f9",
+                "lat": 33.43367,
+                "lon": -111.922295,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7050a4c2-41d4-4754-9777-8ddf95d4d0e1",
+                "lat": 33.435475,
+                "lon": -111.943436,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "21a0d9e3-0b69-48d1-a346-8649b7c1d60b",
+                "lat": 33.431945,
+                "lon": -111.939981,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6b44ab67-ddb0-4d7b-ba23-006631aec4bc",
+                "lat": 33.424169,
+                "lon": -111.941432,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f58cde36-cd5d-41b9-a85d-74eca6a3cb20",
+                "lat": 33.421794,
+                "lon": -111.916184,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "39956e62-e5e4-4b95-98eb-63082a6856f2",
+                "lat": 33.428914,
+                "lon": -111.942723,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d68b27ed-faf3-48f7-afbd-3ca941fbfd31",
+                "lat": 33.43127,
+                "lon": -111.941597,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "583247d0-c0d0-4daf-85d6-5563046c3bc0",
+                "lat": 33.425803,
+                "lon": -111.940674,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7b11a0e5-9b02-4b1d-bf59-a6a1eaa148d8",
+                "lat": 33.371104,
+                "lon": -111.938317,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "892c2ec3-35ff-4bfc-8738-8f5c4a54685c",
+                "lat": 33.425373,
+                "lon": -111.936944,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d7a23f81-a06c-4deb-bc5d-c06378f16ede",
+                "lat": 33.378339,
+                "lon": -111.926962,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "f09a20d5-d8fb-4e69-b60d-500c9e2c09ea",
+                "lat": 33.431571,
+                "lon": -111.952385,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4964e998-9712-437c-8b96-12c52875c93a",
+                "lat": 33.43111,
+                "lon": -111.942604,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "dc4d4cd1-3af0-4195-9a73-607f7e8abfe2",
+                "lat": 33.426534,
+                "lon": -111.940171,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "45630607-5357-4a54-ae76-7b8cb3735220",
+                "lat": 33.402236,
+                "lon": -111.935035,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "804f8c31-7588-4cc7-a59a-b37e5769ccec",
+                "lat": 33.425319,
+                "lon": -111.952161,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c96be8d3-e93b-4af5-bbc7-dcd620b5ffc1",
+                "lat": 33.424421,
+                "lon": -111.940587,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "ce8a638d-62f9-43a1-9447-435907592414",
+                "lat": 33.412246,
+                "lon": -111.920365,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b3d0a154-190d-49ea-8258-65c0a713e746",
+                "lat": 33.43243,
+                "lon": -111.949884,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b0de8a71-8cb2-4e11-8f51-71199b405bfe",
+                "lat": 33.422485,
+                "lon": -111.942695,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c25d214f-287d-4a24-ac17-8e5847523e8e",
+                "lat": 33.426361,
+                "lon": -111.94667,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3df31379-98b2-4418-b8d4-ebced814af6b",
+                "lat": 33.434459,
+                "lon": -111.934006,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "31731a6b-3d2a-40bb-8aac-094d38a841ce",
+                "lat": 33.434561,
+                "lon": -111.942099,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a87c5d81-34ef-4a82-a54a-5bac095cb031",
+                "lat": 33.424888,
+                "lon": -111.941354,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "dd4c6981-c066-4c56-9151-a6fe8fade52f",
+                "lat": 33.432116,
+                "lon": -111.946252,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7eaff1bc-53e2-454a-ae28-94ef98f5207b",
+                "lat": 33.428954,
+                "lon": -111.942749,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8722da3d-5942-430a-adf0-3967de854e0b",
+                "lat": 33.412107,
+                "lon": -111.918223,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4fe65f15-3226-4ef5-ba6e-cd334c85e0a4",
+                "lat": 33.435188,
+                "lon": -111.942192,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8fca553c-8f33-45a6-9454-19749aadc175",
+                "lat": 33.424523,
+                "lon": -111.941279,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "39c968ca-7789-46d5-a75f-1103f5c176ba",
+                "lat": 33.421398,
+                "lon": -111.940194,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e6db1fb3-462e-462a-a683-be7c556d764e",
+                "lat": 33.434756,
+                "lon": -111.924881,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c8dbbb87-6468-437b-b1d1-112788498779",
+                "lat": 33.422122,
+                "lon": -111.94455,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b8a78d9d-9dba-40a5-920f-ec36e9ddbf1d",
+                "lat": 33.432963,
+                "lon": -111.95409,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "01f46d4a-d0cc-4dc7-b410-774b0f814ee5",
+                "lat": 33.418583,
+                "lon": -111.944436,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "508dcf3f-3bd6-45c1-9c53-614e2bb7fcc5",
+                "lat": 33.431945,
+                "lon": -111.94252,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1234ec9c-7c9c-4f06-88ba-51f9bb56bec6",
+                "lat": 33.430556,
+                "lon": -111.941216,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0b90976d-b16a-48f3-adb1-cb85b7475e29",
+                "lat": 33.413338,
+                "lon": -111.923142,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5048f413-d256-4128-945a-6d7fbc3039de",
+                "lat": 33.421791,
+                "lon": -111.940239,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8085def7-8766-4adc-a4d0-76c29db0d779",
+                "lat": 33.435105,
+                "lon": -111.941286,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8c5a33d7-fd05-4a43-bc38-e97ac73c6604",
+                "lat": 33.430236,
+                "lon": -111.928604,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "dd0ad5eb-3db8-480e-b313-61cebaa17684",
+                "lat": 33.431716,
+                "lon": -111.941085,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "99cd796f-e631-41fd-b36a-82b29dfbcaf5",
+                "lat": 33.431068,
+                "lon": -111.94268,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4b6abbeb-88f8-47d1-83f5-6501589df301",
+                "lat": 33.423713,
+                "lon": -111.940117,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3a242700-6890-4fa1-a790-ee51420ebc20",
+                "lat": 33.429401,
+                "lon": -111.94146,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d7581bb8-ce5d-4877-a5c5-92b1b7afe70a",
+                "lat": 33.427186,
+                "lon": -111.940199,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8015307a-26fe-486c-95a9-511e0859256a",
+                "lat": 33.429011,
+                "lon": -111.945702,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "fbb65089-c668-469e-8f4a-42233594187c",
+                "lat": 33.431816,
+                "lon": -111.943077,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1fc9b8ee-8cd7-456c-b643-6e088c443a5a",
+                "lat": 33.431846,
+                "lon": -111.94226,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c9079bf7-e88b-4f20-becf-6b09ed7f7504",
+                "lat": 33.423455,
+                "lon": -111.942506,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "404fb41d-1957-4dcc-94b9-9a41f74ab5a5",
+                "lat": 33.432977,
+                "lon": -111.954078,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "e08dc0b6-67b0-4b97-825d-1fc83cf71c76",
+                "lat": 33.422474,
+                "lon": -111.942196,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3616b984-3783-47ff-9cb6-35c12c7f56fa",
+                "lat": 33.424141,
+                "lon": -111.941286,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3784e58e-e460-4623-82f0-9087025b1c01",
+                "lat": 33.424136,
+                "lon": -111.941742,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "025a571a-c79e-4c5c-99a5-96fd2be34122",
+                "lat": 33.420863,
+                "lon": -111.918291,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5f729f31-b30f-4d93-bbf9-813d7b2865d4",
+                "lat": 33.427186,
+                "lon": -111.940199,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "df001a3b-5179-4153-a0a5-99d77d594cbc",
+                "lat": 33.422431,
+                "lon": -111.944199,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b25825a3-b2d9-40ff-8131-ac9c9e13ee1a",
+                "lat": 33.430561,
+                "lon": -111.937707,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f258c54c-4321-4b4c-87a8-69f7fa49672b",
+                "lat": 33.434561,
+                "lon": -111.942099,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1b6044d8-3abd-4584-961e-e4dfb60a6cad",
+                "lat": 33.410926,
+                "lon": -111.945481,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e9e6cb26-f28e-4649-bcb8-7cb96012f546",
+                "lat": 33.427186,
+                "lon": -111.940199,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8d53a8e4-1f32-4774-92b2-0a1ffdb43462",
+                "lat": 33.423362,
+                "lon": -111.93986,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "44c73400-6c8c-43f4-84a4-340b7fd1c3a4",
+                "lat": 33.434905,
+                "lon": -111.941513,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "ef4389b6-9152-49ca-8f1d-d91b4ece4680",
+                "lat": 33.432026,
+                "lon": -111.940049,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "be2a4ea6-5e68-4eee-8fa8-c427787cf6da",
+                "lat": 33.423766,
+                "lon": -111.967149,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a81cf07b-0c42-42d6-b708-a4421511ef14",
+                "lat": 33.432396,
+                "lon": -111.94931,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "bb6e8ad5-b86b-4069-a275-f3b99f1246b6",
+                "lat": 33.429263,
+                "lon": -111.94033,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5e0d14f6-e213-4c29-9bd4-75ef515f327d",
+                "lat": 33.424205,
+                "lon": -111.940148,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5259ec9e-118f-4c23-acc2-dcb2750fccdf",
+                "lat": 33.432533,
+                "lon": -111.948869,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "dff3badc-9c6d-4350-895a-2c9e313b879a",
+                "lat": 33.425007,
+                "lon": -111.940067,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "56cc36f9-fcf5-4ab5-a6ae-d643b9b6e649",
+                "lat": 33.431945,
+                "lon": -111.936127,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "bf3178f2-0304-4d7f-9f92-7fbb99fbff51",
+                "lat": 33.420611,
+                "lon": -111.924187,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b76618ca-14dd-4eec-b9f3-0bebf43de3ca",
+                "lat": 33.401108,
+                "lon": -111.942186,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "364acceb-4fb9-410f-8191-b21a13110d5d",
+                "lat": 33.41692,
+                "lon": -111.925981,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8bf65e8c-b4f0-4902-bcf5-afb7febcdcd0",
+                "lat": 33.431458,
+                "lon": -111.942414,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "fe266baf-e20c-41d2-b015-7ba2a6b79845",
+                "lat": 33.431098,
+                "lon": -111.94268,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "78067c5a-aabb-40de-a69f-e6b34af687f0",
+                "lat": 33.439536,
+                "lon": -111.950172,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "29c3edae-9db7-40d9-95fc-395d38799842",
+                "lat": 33.430355,
+                "lon": -111.941025,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9eeaf44e-5cf3-434e-a083-28309ba32a85",
+                "lat": 33.420631,
+                "lon": -111.924142,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "453b6d0d-7a6d-4b7a-a4cd-4cba542a049b",
+                "lat": 33.429247,
+                "lon": -111.939995,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "90ec9f24-f05a-42de-bef8-d9b09740e28f",
+                "lat": 33.43154,
+                "lon": -111.939726,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "ee0cfa94-8e00-4cfe-bb08-d96fe2ec9cc8",
+                "lat": 33.42538,
+                "lon": -111.944832,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "dc0e522c-e6b6-4713-bba8-c4998bbcbfdb",
+                "lat": 33.422893,
+                "lon": -111.938187,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9a8fbe5a-01b2-429e-94cf-8788375bde71",
+                "lat": 33.423444,
+                "lon": -111.9401,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7dfc7b01-d68c-4c0f-b238-fab7b2cac471",
+                "lat": 33.414966,
+                "lon": -111.9207,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "2b8f779e-f113-4cab-9118-d8c3b7d9ea62",
+                "lat": 33.431542,
+                "lon": -111.952412,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "c84cf113-6833-4cb1-9db8-5bc9536bc8f4",
+                "lat": 33.43158,
+                "lon": -111.952409,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "fa0b4562-d316-45ae-8809-ffd29bd01ff9",
+                "lat": 33.431458,
+                "lon": -111.94297,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c002d9e8-b839-416b-bc16-adddd99e243c",
+                "lat": 33.434581,
+                "lon": -111.934091,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "216b13b7-efaa-4818-821e-cac32e2c0558",
+                "lat": 33.424205,
+                "lon": -111.940148,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a21171e5-a592-4af5-804c-a20f5be1b842",
+                "lat": 33.42958,
+                "lon": -111.945092,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7406c744-0892-4583-8337-4ac9596e0b2c",
+                "lat": 33.425133,
+                "lon": -111.936752,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5d9ebaca-c59f-440c-b1d8-8bccef777323",
+                "lat": 33.430442,
+                "lon": -111.949534,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "619a47e6-38d8-4079-8c82-a03f412f684d",
+                "lat": 33.431065,
+                "lon": -111.942657,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "dce4b4ba-5a40-4720-aa88-859b9950f63b",
+                "lat": 33.422064,
+                "lon": -111.944382,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "97b2c09b-8e8c-4334-86c6-855778ac7b8e",
+                "lat": 33.430046,
+                "lon": -111.926064,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f3a0a18d-51c4-4c9c-b680-df199ba9c890",
+                "lat": 33.431574,
+                "lon": -111.952415,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e15f7924-f669-4869-b6ae-ddb34f74be20",
+                "lat": 33.431678,
+                "lon": -111.94239,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "69b0b8a9-4633-4c10-9afb-381501b79886",
+                "lat": 33.424933,
+                "lon": -111.940129,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7653b7fb-0668-4ee0-a52f-2d0e6a59d46b",
+                "lat": 33.431458,
+                "lon": -111.942599,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "519cfbc8-4c7e-4bb9-8f86-4c97abde4ec9",
+                "lat": 33.424892,
+                "lon": -111.940123,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d3c9d7b6-6feb-456a-a181-35c7115f1dc9",
+                "lat": 33.433441,
+                "lon": -111.924172,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f65ffe98-b793-4780-930a-1e9f531b9570",
+                "lat": 33.421496,
+                "lon": -111.942476,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6837d67e-e6a6-46f3-b6ed-ab53fd8ac781",
+                "lat": 33.414143,
+                "lon": -111.930772,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "06a7baf8-9043-4a09-ba8f-60a16e26fac0",
+                "lat": 33.40622,
+                "lon": -111.925591,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5bc45ef0-d6f4-4e7b-8ce3-2182a02d3954",
+                "lat": 33.420593,
+                "lon": -111.924172,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7b095f1c-21a6-4b3a-bf08-64140d1f7328",
+                "lat": 33.428955,
+                "lon": -111.942593,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6f87e8f5-54a1-4faf-b866-58895edf3786",
+                "lat": 33.438355,
+                "lon": -111.943879,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "29faef50-bad4-45a9-b640-63e73a71ee0f",
+                "lat": 33.425231,
+                "lon": -111.940334,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8e82244a-9e42-4f9e-a072-cb9d31eea8e0",
+                "lat": 33.414496,
+                "lon": -111.904939,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e04033a2-c466-470b-8112-7d94add7ab83",
+                "lat": 33.43156,
+                "lon": -111.952424,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "09b7b252-154c-4a5f-abc9-2b702b38e107",
+                "lat": 33.432406,
+                "lon": -111.949372,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "919c9924-f627-4854-9cd0-db2a52ac9c83",
+                "lat": 33.414443,
+                "lon": -111.909524,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "bcbe7116-6f90-45e8-9457-cbc628b3fe93",
+                "lat": 33.431858,
+                "lon": -111.943055,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "840c5e36-9251-4aa8-b086-8922869f0bc9",
+                "lat": 33.419536,
+                "lon": -111.913055,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c1cba4e1-1d75-42b6-a1d7-fdf8b453b1ba",
+                "lat": 33.422122,
+                "lon": -111.94455,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "cc6885d2-cf1b-4d38-bace-8734a16dad20",
+                "lat": 33.431091,
+                "lon": -111.942657,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3e57de3b-e761-4745-92a8-d84825e0ec9e",
+                "lat": 33.432892,
+                "lon": -111.953678,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6bb5142e-9103-413d-8811-115642c6f1ba",
+                "lat": 33.400341,
+                "lon": -111.924607,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5000d48d-7ec6-46b6-af37-88cbf798502b",
+                "lat": 33.432388,
+                "lon": -111.949808,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ad4444f0-c70a-4c91-9b7a-a028e04fc48b",
+                "lat": 33.42265,
+                "lon": -111.951462,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5ef9f6e5-d13f-4192-be8a-7584f11fdbc4",
+                "lat": 33.42251,
+                "lon": -111.942218,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c41fd6ed-e38e-4627-b7ca-6b407a01baa1",
+                "lat": 33.42509,
+                "lon": -111.958207,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "324dff3c-c9e4-4dbd-ad4d-91dfcd33e3a1",
+                "lat": 33.422526,
+                "lon": -111.942535,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3800a640-fbd0-40f4-b0b9-838d9dac61b9",
+                "lat": 33.430866,
+                "lon": -111.970932,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3c82ef5b-163d-4fc5-b51c-7443b5b98337",
+                "lat": 33.434661,
+                "lon": -111.92173,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "bd664f4f-cee4-42f3-aac4-f85c4dd11f98",
+                "lat": 33.426685,
+                "lon": -111.939914,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "4ce6e107-8c39-4269-b011-f1df2646ddfd",
+                "lat": 33.417023,
+                "lon": -111.922571,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "d8396fa1-c772-4815-9e66-0c13447c68ec",
+                "lat": 33.432853,
+                "lon": -111.927232,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "20399f6f-fc37-40fa-b5ea-538eaa2c5d1e",
+                "lat": 33.425514,
+                "lon": -111.942585,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7d854765-94fd-493b-9f58-81475f8a2781",
+                "lat": 33.414966,
+                "lon": -111.925469,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "06f5402c-29c6-4142-9b9f-b34f2943074b",
+                "lat": 33.4324,
+                "lon": -111.949807,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1ddcc93a-2e2a-45d9-bddc-b8c8be6d9aa7",
+                "lat": 33.414593,
+                "lon": -111.90728,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a9e7d0c0-f59b-4062-aaa7-e30ae007235d",
+                "lat": 33.433181,
+                "lon": -111.926454,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "748e86b4-0611-4a56-8c10-23b270d34187",
+                "lat": 33.430343,
+                "lon": -111.941002,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3a0330e7-80ef-4e64-b69a-881cdaedbb80",
+                "lat": 33.43148,
+                "lon": -111.942642,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0af1a3a1-3ccb-4315-9941-9cd7c0766cec",
+                "lat": 33.415,
+                "lon": -111.925402,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0b61c5f1-120a-4383-b0cb-a937bf17f766",
+                "lat": 33.424523,
+                "lon": -111.941279,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5df416d9-acc9-4183-9195-bbab8246f15b",
+                "lat": 33.427684,
+                "lon": -111.940087,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "1d3df363-054a-4c56-ac69-a0ae0ad4f373",
+                "lat": 33.431808,
+                "lon": -111.942269,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "bd1c7cf3-d1e8-472e-99f0-29fd952a17b9",
+                "lat": 33.430343,
+                "lon": -111.940979,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f64d181b-7667-43d0-9b0b-ac876519a3ce",
+                "lat": 33.428914,
+                "lon": -111.942723,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "77047303-07b5-43d8-8711-67884050c99f",
+                "lat": 33.409916,
+                "lon": -111.9236,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "55474366-84bf-4e34-93fe-bd1eecb34e36",
+                "lat": 33.433353,
+                "lon": -111.923584,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7ffbc7cc-a14b-4aa3-a631-29f50c5c7789",
+                "lat": 33.432678,
+                "lon": -111.92714,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "22c4efde-d97f-4bb2-a018-7373570a8f23",
+                "lat": 33.428878,
+                "lon": -111.929565,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "366543eb-4757-4e2e-90d1-d2860cb1bdef",
+                "lat": 33.427423,
+                "lon": -111.941162,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "aa9972a1-0f57-4bd5-8e44-80c4b69e0e53",
+                "lat": 33.431541,
+                "lon": -111.952394,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "24dc981c-65ff-433d-8804-efacb9913b3f",
+                "lat": 33.431786,
+                "lon": -111.942499,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "14e36a4e-9814-4ad2-a775-e82ed695e90e",
+                "lat": 33.43511,
+                "lon": -111.942225,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "53840d97-da7e-4966-88b1-f431e695c7ab",
+                "lat": 33.430073,
+                "lon": -111.926004,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "30633e00-f432-48fc-a3a1-8b1f8dd397b0",
+                "lat": 33.429182,
+                "lon": -111.949542,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "72839657-41f2-458c-bd06-7fd64aefc919",
+                "lat": 33.425326,
+                "lon": -111.936775,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "eb16b7db-4a1a-43d2-ab6c-da62ac22cf7a",
+                "lat": 33.431482,
+                "lon": -111.942592,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "472fc49c-fabc-413a-bcce-96ce32ca78cb",
+                "lat": 33.435081,
+                "lon": -111.941286,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ce196ef9-a139-409d-bd2d-5c2f16ce00a1",
+                "lat": 33.432406,
+                "lon": -111.949814,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2d6a165e-f84f-444b-ae42-d621297e74ff",
+                "lat": 33.426335,
+                "lon": -111.939925,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f96daedc-a374-41cb-a481-c4fa9e111c73",
+                "lat": 33.431968,
+                "lon": -111.940091,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a4c3fcc9-e0cc-4bff-8909-1b398a9d6bba",
+                "lat": 33.430283,
+                "lon": -111.929849,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "fa0a2a40-61a6-4028-889f-a6043d617c1f",
+                "lat": 33.431086,
+                "lon": -111.94265,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "63ccc748-e08e-445d-b9e3-a1ac548aa8d3",
+                "lat": 33.42855,
+                "lon": -111.956529,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "286328c8-ae06-47b0-af36-7f65135677a2",
+                "lat": 33.434768,
+                "lon": -111.943367,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7700cce3-1303-49a8-a341-de2a2feb6ad7",
+                "lat": 33.430512,
+                "lon": -111.941153,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "23d7921a-cfa1-476e-8646-24b86bd95e4f",
+                "lat": 33.424216,
+                "lon": -111.941911,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9f769ab7-9a82-42f9-9b7e-d8c3ad656ffb",
+                "lat": 33.419426,
+                "lon": -111.922699,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6a6061e4-13b8-45d6-af5a-431eefce370a",
+                "lat": 33.429975,
+                "lon": -111.940168,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6cdd27ec-b500-4146-9d75-0858e8c8e218",
+                "lat": 33.432991,
+                "lon": -111.954064,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "eb3f4e9b-cf3e-4192-99b7-d05cd4a83633",
+                "lat": 33.435363,
+                "lon": -111.943231,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e4535496-30cc-4bc1-81db-79105cb09b35",
+                "lat": 33.414937,
+                "lon": -111.888561,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4de894ad-874d-4d81-96ec-8bcde52bcec7",
+                "lat": 33.425063,
+                "lon": -111.941354,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5e600394-8772-4a3f-bcf0-a9ba75c7c800",
+                "lat": 33.44329,
+                "lon": -111.926682,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "4efe24b9-6d39-42ef-abba-f0d96182f587",
+                "lat": 33.431779,
+                "lon": -111.943128,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "15b7084d-1ebc-486f-a90b-153e12837a76",
+                "lat": 33.431465,
+                "lon": -111.94262,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "69ffaca0-c79d-4b7a-8e19-5aae8dc23364",
+                "lat": 33.431601,
+                "lon": -111.952415,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1c9339ac-9008-400d-bfb8-f5b7c3ce019f",
+                "lat": 33.424816,
+                "lon": -111.94075,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "415aeaf4-9f78-486d-a83d-b4d491ead18e",
+                "lat": 33.427541,
+                "lon": -111.939898,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "af35de41-7261-4f3d-bd97-2befe732d3ed",
+                "lat": 33.421814,
+                "lon": -111.95438,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4ef814e1-b4d5-41b8-9dae-0617dc115fe3",
+                "lat": 33.434493,
+                "lon": -111.934043,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "77272b9f-3b05-4d11-a03b-cc6b5f7d7bce",
+                "lat": 33.426335,
+                "lon": -111.939925,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "958955fa-2980-4cf5-bde4-12a4b078a097",
+                "lat": 33.423363,
+                "lon": -111.936654,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "cfebe3bf-868c-41a5-8bc4-0cb6c2a931f4",
+                "lat": 33.417538,
+                "lon": -111.909219,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7ff141d2-84e3-41c4-8828-684073458dd6",
+                "lat": 33.429271,
+                "lon": -111.939857,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4ac9df6e-19a9-48e2-80f2-791d5a365955",
+                "lat": 33.432198,
+                "lon": -111.943634,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "96a01339-4d5d-4e8e-a900-7109a64ef5f0",
+                "lat": 33.432653,
+                "lon": -111.952384,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "55de247c-a2e8-49ec-b4cf-a1465768967c",
+                "lat": 33.431988,
+                "lon": -111.940049,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9b858bb9-400a-42d6-b478-a1326c425acd",
+                "lat": 33.43132,
+                "lon": -111.942712,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6d3d9b69-176a-46e2-937d-1211c5cdffe1",
+                "lat": 33.41442,
+                "lon": -111.935759,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "60feccfa-975e-45d5-85b2-67a2d45ad287",
+                "lat": 33.421856,
+                "lon": -111.940904,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ba483d8c-b030-4321-83e5-16414ddfd9c1",
+                "lat": 33.435375,
+                "lon": -111.943237,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f492ecd0-4508-4109-8b9d-6068177990fd",
+                "lat": 33.414513,
+                "lon": -111.920511,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b5d20cc9-41cd-464e-9537-bed69eca5cf4",
+                "lat": 33.432003,
+                "lon": -111.939957,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b5612c73-c04a-4738-aa08-fab81dce03ee",
+                "lat": 33.431984,
+                "lon": -111.940662,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6773d460-6309-4ae4-83b2-b6f80eefa524",
+                "lat": 33.425296,
+                "lon": -111.936799,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1446148c-cc45-42e0-ba9f-cb52aa95f5da",
+                "lat": 33.42401,
+                "lon": -111.941187,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "23f854df-813e-4cbd-a29f-06c39f1e328c",
+                "lat": 33.427665,
+                "lon": -111.940171,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7ceb4211-db8c-4f82-a86f-a736d6218587",
+                "lat": 33.43195,
+                "lon": -111.938409,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "52b7be55-41fa-487f-bf9c-885b3772ba09",
+                "lat": 33.418895,
+                "lon": -111.919327,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "10b6d729-dcb0-4d84-9860-871dd66c016a",
+                "lat": 33.42762,
+                "lon": -111.94027,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "857349cd-1e9b-4a9d-84a8-d4b170c0aaed",
+                "lat": 33.449313,
+                "lon": -111.932252,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6daa6c93-6d62-411e-8ebc-e763a0c88d50",
+                "lat": 33.431266,
+                "lon": -111.942695,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b95817db-78ef-472f-a6e4-c8c8475fda55",
+                "lat": 33.428973,
+                "lon": -111.942727,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "18eb9c65-da1f-41a9-83bd-ebecb4be8734",
+                "lat": 33.424169,
+                "lon": -111.941432,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f6a17afc-b9e0-4441-a616-d5d56aff786b",
+                "lat": 33.416885,
+                "lon": -111.925972,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "dbdb4ae2-ca79-4703-8d84-fe3eb80b1340",
+                "lat": 33.406685,
+                "lon": -111.919464,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2d3de91a-313c-436b-a298-41b3c6698273",
+                "lat": 33.423301,
+                "lon": -111.936852,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6a6b86df-6b5b-43ff-8069-5677b82e58a9",
+                "lat": 33.433773,
+                "lon": -111.930847,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e40bee60-6401-49a7-bf05-6983d2044bc5",
+                "lat": 33.421734,
+                "lon": -111.954388,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f892231d-9121-49aa-8612-013fbb01d20d",
+                "lat": 33.389908,
+                "lon": -111.909874,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "529702c2-14d2-48b9-a156-a4e31328b482",
+                "lat": 33.434448,
+                "lon": -111.934006,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "28bea7ca-78c1-4ca5-9a32-357e38e3c0d7",
+                "lat": 33.430633,
+                "lon": -111.941315,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c2c5d7ea-7a16-4d92-a382-4a5f5ef3c927",
+                "lat": 33.430442,
+                "lon": -111.949534,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "aed36024-6600-4c11-adf8-f14b55314b43",
+                "lat": 33.424228,
+                "lon": -111.939889,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e4b8d6e8-3f30-46e8-a10a-4ce1973982fa",
+                "lat": 33.431843,
+                "lon": -111.942476,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4ccc3f5a-9bb9-4489-b9ee-79444377261c",
+                "lat": 33.421913,
+                "lon": -111.924522,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "052541f3-d413-4e09-b5af-9035b532ffe8",
+                "lat": 33.42141,
+                "lon": -111.940125,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c0e2f7fe-8fb3-4fbf-bea4-4a9125337920",
+                "lat": 33.427226,
+                "lon": -111.940179,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4554754c-b948-4698-8d93-de34df35d6fe",
+                "lat": 33.370789,
+                "lon": -111.937631,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0bc996f7-e9de-4a58-9941-4f0524bdb879",
+                "lat": 33.431786,
+                "lon": -111.942499,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6c65bdbf-4587-4dc5-bf28-313eec6197a0",
+                "lat": 33.431781,
+                "lon": -111.942488,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "37d30788-27bd-4de4-b763-57210d77b2f2",
+                "lat": 33.430035,
+                "lon": -111.926064,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9841682f-57c6-4d0a-8de8-1f4fee847c37",
+                "lat": 33.433788,
+                "lon": -111.926475,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "da3c9dcd-fb81-4199-af46-f7dd0ee5c5c0",
+                "lat": 33.427377,
+                "lon": -111.941154,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "fb4bee62-3019-403f-8ec5-7cf8d1468aac",
+                "lat": 33.434676,
+                "lon": -111.936814,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "258c85cf-477c-41ab-934c-4a09a2c7f968",
+                "lat": 33.422122,
+                "lon": -111.94455,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "41ff36e2-1edf-4156-84e5-1587e19a911c",
+                "lat": 33.431781,
+                "lon": -111.942488,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "05fa352c-5cac-42dc-b069-8e672f6e34ad",
+                "lat": 33.425514,
+                "lon": -111.942585,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "13669ec1-6854-4356-9af8-c83c1345a60a",
+                "lat": 33.428914,
+                "lon": -111.942723,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "821f0fe7-fc35-42e9-9c17-109ffb5df943",
+                "lat": 33.431296,
+                "lon": -111.941606,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6adffbb3-85d9-4fc0-ad31-6fddbf080765",
+                "lat": 33.430861,
+                "lon": -111.943124,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5a15709b-6ef0-49b2-a845-241ca9ef80a2",
+                "lat": 33.431438,
+                "lon": -111.942636,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b7f3c3ce-19a3-4b6c-a0e5-57bb40940d2e",
+                "lat": 33.42496,
+                "lon": -111.940131,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2d6a1dce-87b7-4066-8a54-80065f51db6e",
+                "lat": 33.381866,
+                "lon": -111.927887,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5eaf9fd3-0752-42a0-9139-cc7fc6be3e77",
+                "lat": 33.426651,
+                "lon": -111.908935,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "99ef31c0-f134-42a8-a99e-0a846d7c70c9",
+                "lat": 33.429858,
+                "lon": -111.926422,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "67a3af44-3366-4ca7-a455-d72fc40972d0",
+                "lat": 33.422623,
+                "lon": -111.939354,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "002968f4-4af3-4546-9ff9-484e0b3e250d",
+                "lat": 33.425594,
+                "lon": -111.940969,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "60e86228-3dc6-4805-9f44-67dc8f805448",
+                "lat": 33.425322,
+                "lon": -111.940104,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "eb58af60-a7e1-4abf-83d4-4fd56a748752",
+                "lat": 33.419533,
+                "lon": -111.913721,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "fe1836da-e8b7-4e04-8c38-e4c84f8e8403",
+                "lat": 33.421866,
+                "lon": -111.954437,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b9dd8894-256d-453b-ab52-e4a8a66c11ff",
+                "lat": 33.419921,
+                "lon": -111.901742,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b3159afd-912f-487b-b669-4aea71d4e815",
+                "lat": 33.431801,
+                "lon": -111.943077,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9ff7e459-571b-409f-ad4d-2337c4282c80",
+                "lat": 33.432925,
+                "lon": -111.95394,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7d3b92a7-34bb-4322-adb4-79baedcf9681",
+                "lat": 33.414901,
+                "lon": -111.925477,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8048a5fe-0ca1-4471-9401-1283d05b4cda",
+                "lat": 33.424892,
+                "lon": -111.940123,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "192e4e11-d124-49ad-b84f-f41562822412",
+                "lat": 33.432436,
+                "lon": -111.949622,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d624ec3a-0b97-47d6-b267-52967d2068dc",
+                "lat": 33.434738,
+                "lon": -111.943429,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "47b08f93-5ad3-41cd-8938-7bc1543f9bb5",
+                "lat": 33.428211,
+                "lon": -111.957962,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2ccbb3a5-ed45-4901-853d-9ac255561c8b",
+                "lat": 33.431079,
+                "lon": -111.942679,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "fc376f03-4157-493c-846d-4b9b23b0f0bd",
+                "lat": 33.428674,
+                "lon": -111.908094,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8127b7aa-28cd-4bf4-a5e6-b72f7bdfc458",
+                "lat": 33.414123,
+                "lon": -111.932747,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b9215558-deb1-4dcb-855c-9a87726d840d",
+                "lat": 33.431079,
+                "lon": -111.942657,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "98ab0828-db2d-41e3-bfde-e7e943cc8b30",
+                "lat": 33.432308,
+                "lon": -111.949364,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "aedab42c-13b4-4645-aa08-236250f0fd18",
+                "lat": 33.431045,
+                "lon": -111.942704,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a3dfce1d-777f-416b-a8fd-b646c725f76a",
+                "lat": 33.421917,
+                "lon": -111.94035,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8673aea1-999d-4bbf-a016-6d2eed901893",
+                "lat": 33.42496,
+                "lon": -111.940131,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "75f238e9-341a-4a16-a015-ad9787587697",
+                "lat": 33.41444,
+                "lon": -111.908731,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f758f5fe-5eb5-47b2-92c5-e68ae0119711",
+                "lat": 33.414951,
+                "lon": -111.90464,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0c53a006-1e91-4784-95a8-c94ae4c7196f",
+                "lat": 33.426048,
+                "lon": -111.940125,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2046aa69-e8bc-45b5-90c7-76f9fd3a4c52",
+                "lat": 33.424169,
+                "lon": -111.941432,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9330bf39-adc2-41cd-b710-bbd57cac6745",
+                "lat": 33.433773,
+                "lon": -111.92228,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ffaf77a1-f88a-4941-97e3-0230984222e4",
+                "lat": 33.423026,
+                "lon": -111.938927,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8a95e785-6972-48e3-ac87-cbd6d3947a53",
+                "lat": 33.414966,
+                "lon": -111.925469,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1f9c6815-b629-4a80-98f3-d90786649c0e",
+                "lat": 33.430501,
+                "lon": -111.941142,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "475cbc20-336c-4779-81f9-1dd15bc4a08a",
+                "lat": 33.413593,
+                "lon": -111.91169,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d14ea5bf-6257-4cc8-b556-25446b9bd6df",
+                "lat": 33.431834,
+                "lon": -111.943122,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "be880493-0f1f-45a6-b80a-ca186c1489ab",
+                "lat": 33.435263,
+                "lon": -111.942258,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "21b5dae8-9a59-4da0-aa4a-81e041f05787",
+                "lat": 33.42251,
+                "lon": -111.942218,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "966267db-8135-4684-ab14-6254cdf885f2",
+                "lat": 33.43111,
+                "lon": -111.942695,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ddc9f6a9-c20a-41bb-ab74-516f0a0bec8c",
+                "lat": 33.423148,
+                "lon": -111.935899,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "88f86aa3-3592-4e29-bc6d-89dc6da8e247",
+                "lat": 33.425423,
+                "lon": -111.937569,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "81228aa4-837f-47bc-99da-b8418fd92eba",
+                "lat": 33.434729,
+                "lon": -111.92485,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "eb442f3a-52a8-4f84-bdbd-dc8d2af81a6f",
+                "lat": 33.432888,
+                "lon": -111.953279,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2920ca55-bb12-485d-85dd-393eeed75f15",
+                "lat": 33.439471,
+                "lon": -111.950074,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "023946c3-fe3a-4b95-bca0-5ea6b878c6b6",
+                "lat": 33.421905,
+                "lon": -111.914497,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "88b2c0b6-6134-4a3f-b47b-2e23d61a5629",
+                "lat": 33.433765,
+                "lon": -111.930817,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "14795822-2f1c-47b6-9267-8e2c39716f30",
+                "lat": 33.432675,
+                "lon": -111.926354,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ea5473ac-98db-4989-8bb8-1cd4c949712b",
+                "lat": 33.431944,
+                "lon": -111.904935,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "73e2b06a-92c7-4c1d-b22a-d9b53d0ba4e7",
+                "lat": 33.431278,
+                "lon": -111.941612,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5b4264c7-fb04-4545-86ca-353343fe05b9",
+                "lat": 33.408988,
+                "lon": -111.920762,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "67bc40d3-e6b4-4990-992f-1468124c2001",
+                "lat": 33.43179,
+                "lon": -111.942986,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "408a38b0-bfc2-4238-ac1b-d520f26d3902",
+                "lat": 33.422541,
+                "lon": -111.939801,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ead6617d-cd67-4476-b65b-d5cb43b037c3",
+                "lat": 33.422122,
+                "lon": -111.94455,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "19e21547-ad58-4f92-add4-f326bd530089",
+                "lat": 33.418986,
+                "lon": -111.940151,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4df57344-eacb-44e4-bf0e-3549b0c30783",
+                "lat": 33.411009,
+                "lon": -111.957383,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d8640dca-394a-4b44-ae69-dd3151d26ee1",
+                "lat": 33.435016,
+                "lon": -111.942215,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "440c7baf-a08e-4254-8633-a30784246bd7",
+                "lat": 33.43237,
+                "lon": -111.949349,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7f3d7abb-c8cd-4d1b-b01c-7cd889a9e899",
+                "lat": 33.363692,
+                "lon": -111.946122,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d07e5e56-6efe-4f9e-b75a-39a84096e7b6",
+                "lat": 33.4338,
+                "lon": -111.923012,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d53d9c35-8e35-427f-bfa9-a703b8f303ff",
+                "lat": 33.426179,
+                "lon": -111.942962,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "dce9bb09-f8e1-48cf-9172-e18fad946aa1",
+                "lat": 33.43093,
+                "lon": -111.944897,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "25951492-85dc-4312-8142-959e4b12d1b5",
+                "lat": 33.420173,
+                "lon": -111.944199,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5a8cc0c2-cc33-41cf-977f-b576d845f46a",
+                "lat": 33.42251,
+                "lon": -111.942218,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6cc7847b-2274-4f41-84cd-b8abe23c7483",
+                "lat": 33.430441,
+                "lon": -111.940361,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "cc334582-b085-4f95-953c-cf909acb408d",
+                "lat": 33.428383,
+                "lon": -111.940147,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "da519bfd-8cb9-4184-8b31-c4d397e93090",
+                "lat": 33.422946,
+                "lon": -111.939957,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5cf7d235-1b0a-49de-a16e-ffc77602a104",
+                "lat": 33.420051,
+                "lon": -111.925927,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "c11df101-25c6-4e7d-863f-ca75dd818eb0",
+                "lat": 33.432436,
+                "lon": -111.949622,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "47b59b07-4a43-4864-863c-1c68bbed1846",
+                "lat": 33.431186,
+                "lon": -111.942689,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1db07c58-5085-4444-b3ff-1a46c66af414",
+                "lat": 33.428092,
+                "lon": -111.944246,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "44799dff-d88e-4aa2-83dd-c41a18a711c3",
+                "lat": 33.435383,
+                "lon": -111.942437,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1c685245-a124-4b48-998b-4161546315c9",
+                "lat": 33.430512,
+                "lon": -111.941153,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ca0d6b12-b8fd-4f1c-bdaf-ed6a46563427",
+                "lat": 33.431706,
+                "lon": -111.941104,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f7adc8ab-4d75-408a-8eae-382d362fc765",
+                "lat": 33.42342,
+                "lon": -111.942459,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8c76f294-6793-43ac-a914-4cda0063a7f2",
+                "lat": 33.432113,
+                "lon": -111.93718,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8a2ef600-9752-4d79-a084-e55dc56a16bf",
+                "lat": 33.424141,
+                "lon": -111.940104,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e2593c54-bd8c-4e8a-88af-391a2054e6cb",
+                "lat": 33.409031,
+                "lon": -111.923524,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b959aad0-1aee-4847-bb38-59d3cf2ee1e9",
+                "lat": 33.431263,
+                "lon": -111.941612,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "bf05853e-219e-44bc-ab7c-7b158a2317d1",
+                "lat": 33.375639,
+                "lon": -111.94145,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c60cb4a8-71cd-4cc6-81fe-44aa10d44a7c",
+                "lat": 33.431835,
+                "lon": -111.942254,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a0c0832e-b162-4f01-ba77-dadfd0128ff3",
+                "lat": 33.432353,
+                "lon": -111.950104,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2779a6a5-d107-4e39-8a3e-d6072dfff02c",
+                "lat": 33.427048,
+                "lon": -111.94027,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0daf0a07-e73b-4c7d-96a9-4673e9a38afe",
+                "lat": 33.426128,
+                "lon": -111.936379,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c7e845e5-58e1-4317-8273-14d01e75bd74",
+                "lat": 33.432388,
+                "lon": -111.949808,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ed0e575e-b86f-4949-b442-4a340ab7372f",
+                "lat": 33.414913,
+                "lon": -111.925477,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d29ca58f-c0a2-465e-9c83-e6bd2cfcbc6f",
+                "lat": 33.41402,
+                "lon": -111.937127,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "791f6d9e-f506-4ca6-aa03-0c26f303b266",
+                "lat": 33.414256,
+                "lon": -111.930627,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "ba7758eb-fde1-4f7c-9b64-bb539725c4c6",
+                "lat": 33.414631,
+                "lon": -111.926064,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "624d403b-c7d1-45ef-8be0-4682c117c471",
+                "lat": 33.37544,
+                "lon": -111.941825,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ec5e1b42-bfc0-4563-a5e1-1a5466aad663",
+                "lat": 33.366908,
+                "lon": -111.933609,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "989d0332-0a48-4ba4-b521-36b2404b5d70",
+                "lat": 33.431484,
+                "lon": -111.942604,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "720fe9f2-24bc-471b-802a-1a0f572039d5",
+                "lat": 33.421395,
+                "lon": -111.916817,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0259987d-39bd-4df1-97d7-896889435176",
+                "lat": 33.432926,
+                "lon": -111.953814,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "95ebeb31-ce64-4274-99bc-f7ff095c2438",
+                "lat": 33.425425,
+                "lon": -111.939783,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0fee073c-a269-4dd6-9163-ba3c998374f2",
+                "lat": 33.431995,
+                "lon": -111.940019,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1b74bb7b-a6e7-444a-af63-a2e194e84f5a",
+                "lat": 33.431484,
+                "lon": -111.942604,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "06231014-a0e8-4102-96ca-d4bd079f65a5",
+                "lat": 33.43145,
+                "lon": -111.94265,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5888fb90-b640-45f0-9fb5-e2e3d0843f3b",
+                "lat": 33.425319,
+                "lon": -111.952161,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "215f06f3-b745-4e32-a354-a72d8d2fd5cc",
+                "lat": 33.434729,
+                "lon": -111.924829,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0d83df49-3c75-4e96-8677-23fcf5ca89ca",
+                "lat": 33.432346,
+                "lon": -111.949372,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ef72a1fe-e06f-40dc-b098-e291786a3870",
+                "lat": 33.402438,
+                "lon": -111.934189,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ab99d9be-0fc4-43ea-b4fc-0f60b858edaa",
+                "lat": 33.379073,
+                "lon": -111.926765,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4b492325-faf7-457a-8871-76c9885875a3",
+                "lat": 33.430014,
+                "lon": -111.939827,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e43ed924-c915-4f6f-983d-d02571cffa8b",
+                "lat": 33.434954,
+                "lon": -111.92537,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e8091420-ff1b-449d-b6f0-e3b4e5b2b7a6",
+                "lat": 33.423278,
+                "lon": -111.940209,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "532a0505-5cb5-4260-8b56-355b31b887e5",
+                "lat": 33.431296,
+                "lon": -111.942116,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3df38f1f-9b4e-4512-ad39-3e9957f64a9b",
+                "lat": 33.431488,
+                "lon": -111.942506,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "fa5e4806-4e9d-4422-8a93-0cb6ceb5653b",
+                "lat": 33.413681,
+                "lon": -111.924546,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "bac50cc9-5cc3-4d04-9a4f-0b9e898c0053",
+                "lat": 33.409935,
+                "lon": -111.922242,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "79ed3971-f82e-41f3-8569-fa5edaec3ad7",
+                "lat": 33.431549,
+                "lon": -111.952406,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "184fe633-3200-4039-b015-8118e6005b89",
+                "lat": 33.432925,
+                "lon": -111.95394,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4c883191-2dd4-4f37-aa53-f937ca010c20",
+                "lat": 33.434258,
+                "lon": -111.921746,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2f47d261-eda7-479a-bb4b-0c33737e4fde",
+                "lat": 33.434726,
+                "lon": -111.92485,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "48de9957-eeae-430e-8881-ac85b4001f53",
+                "lat": 33.423276,
+                "lon": -111.9411,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a613b766-7532-4494-9d68-9a5a25b29c86",
+                "lat": 33.427608,
+                "lon": -111.940582,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e8da7a0b-f2ac-45d2-b26b-03738b9f3237",
+                "lat": 33.431658,
+                "lon": -111.940994,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "54394289-0bdd-41ef-959e-1ff45f6fa461",
+                "lat": 33.445053,
+                "lon": -111.933037,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "aab3e92c-7520-4aa4-a12b-3454a3a72db6",
+                "lat": 33.425493,
+                "lon": -111.892322,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "fc49c8d4-bb29-4668-a4b5-b871b2ec4f87",
+                "lat": 33.433868,
+                "lon": -111.922189,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "eb3ac08d-d7a4-4c77-8246-59f59ba5aed9",
+                "lat": 33.415048,
+                "lon": -111.92449,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "5df248b6-39a2-4ebb-8ef4-c3dcf0b0d758",
+                "lat": 33.414615,
+                "lon": -111.910027,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "e2b930df-69b7-487e-abc9-a6c28aa3e564",
+                "lat": 33.435481,
+                "lon": -111.943864,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "db7d86f6-5885-46cf-b946-4c9eca4987b8",
+                "lat": 33.431706,
+                "lon": -111.941104,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "63c6cce9-cb5d-4667-b927-8f3915bda25b",
+                "lat": 33.426466,
+                "lon": -111.939914,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "99cb6180-44bc-47ad-89b3-d1d8fe703f03",
+                "lat": 33.424465,
+                "lon": -111.934327,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ac7b475f-f496-47a4-9819-0d792084d6ed",
+                "lat": 33.433189,
+                "lon": -111.926327,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "b318e109-b221-4d97-89ad-43aedeb126f3",
+                "lat": 33.430526,
+                "lon": -111.941102,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4d411b9c-dcec-42d0-a62c-67cd7d85103d",
+                "lat": 33.423444,
+                "lon": -111.9401,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7c8e0ee2-051f-4087-abdf-44219f115ecf",
+                "lat": 33.432676,
+                "lon": -111.95237,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "df033b1b-57b4-45fc-bec7-dd02b1145d5f",
+                "lat": 33.422122,
+                "lon": -111.94455,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5327982b-f18e-407c-bedc-7dfd75810151",
+                "lat": 33.432128,
+                "lon": -111.946274,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ee5e39c5-1dc6-4a97-9b5b-a8513845f44b",
+                "lat": 33.423305,
+                "lon": -111.940256,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "260f047c-2e52-4490-b8c7-869f230de450",
+                "lat": 33.423417,
+                "lon": -111.940112,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "95d5e85c-e99b-4721-90e6-e185177c4f87",
+                "lat": 33.431484,
+                "lon": -111.942576,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e43337a6-7653-426b-917b-c73c408b8323",
+                "lat": 33.414968,
+                "lon": -111.888543,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "df655f6c-8e2f-4609-bad9-24340c941ee1",
+                "lat": 33.432379,
+                "lon": -111.950135,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4e2cedfb-f820-4d3b-9083-accaf0139bfc",
+                "lat": 33.432663,
+                "lon": -111.952179,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "34370d4a-2e8a-49b3-b02d-d35e01211dc6",
+                "lat": 33.431548,
+                "lon": -111.942612,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2c029918-37a6-4226-bbd5-f060d70fe5b7",
+                "lat": 33.422763,
+                "lon": -111.95472,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a4c14e0e-4b32-4737-927f-16c2117735f4",
+                "lat": 33.419515,
+                "lon": -111.912811,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "cf3bf70a-4c5b-446a-81e2-e6ae4057e4c1",
+                "lat": 33.431616,
+                "lon": -111.943149,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "291addfd-e454-4513-a1cf-0edd77f46768",
+                "lat": 33.424613,
+                "lon": -111.941265,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ea7fb3b9-274a-4f18-a1ea-d3ae0ecd6369",
+                "lat": 33.434208,
+                "lon": -111.932037,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "41e03e6c-57f8-48b4-97f0-3cc735208b67",
+                "lat": 33.425514,
+                "lon": -111.942585,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "42badb0b-2f3d-49e1-85b0-ecf96420aab5",
+                "lat": 33.425406,
+                "lon": -111.938874,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e08c1fb4-022a-48ef-bed9-5185426fc622",
+                "lat": 33.432436,
+                "lon": -111.949622,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5361352f-31bf-42f7-a39a-cb246986acb2",
+                "lat": 33.431065,
+                "lon": -111.94268,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ec4c5399-2905-40ef-a60a-ff782318b81e",
+                "lat": 33.431794,
+                "lon": -111.938017,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "8a4c41fa-71e6-486b-8d2b-00d13ee6121f",
+                "lat": 33.435169,
+                "lon": -111.942219,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "8ababa7f-9a6a-4537-ba72-e37509ec7537",
+                "lat": 33.430271,
+                "lon": -111.949884,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a0be694b-edab-4f38-ad47-279ba2cbc665",
+                "lat": 33.432773,
+                "lon": -111.952569,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "df9befb1-d03e-4bd6-a1a3-842fe4d54a03",
+                "lat": 33.414875,
+                "lon": -111.922699,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "03949425-a30b-461d-8e6d-12ef3bf44e8f",
+                "lat": 33.414146,
+                "lon": -111.932717,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "23630531-19c5-414d-9088-850f3303457b",
+                "lat": 33.414943,
+                "lon": -111.90535,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "aa73e1b2-b657-4e71-b724-bfb3acd2d20c",
+                "lat": 33.43515,
+                "lon": -111.94217,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "faa53262-444e-4c08-a35c-da3df32d51a6",
+                "lat": 33.439251,
+                "lon": -111.95169,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d830f5b9-481a-4880-9870-a7efdd05acef",
+                "lat": 33.429885,
+                "lon": -111.940248,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7aedcacd-0a76-4d95-a41a-2112787724f8",
+                "lat": 33.421031,
+                "lon": -111.902397,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b1f01a6a-0022-443c-8ed7-9804a97f8629",
+                "lat": 33.434493,
+                "lon": -111.934043,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5aac559d-ad00-4620-ab76-b9b71058f5a4",
+                "lat": 33.43511,
+                "lon": -111.942225,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6f0995d2-d3d6-45ee-ad3c-c73f349e6dbf",
+                "lat": 33.430501,
+                "lon": -111.941142,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0a358a39-ce8e-4d0b-a36c-e826d7b68956",
+                "lat": 33.431171,
+                "lon": -111.937699,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "33d4c2dc-7892-4745-ae26-ee790d6c1f0e",
+                "lat": 33.423763,
+                "lon": -111.96717,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "fa67bf54-f70c-493d-afb3-9cf5feddf2c7",
+                "lat": 33.414096,
+                "lon": -111.912392,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "eee49f76-f621-4a67-9e2e-37f277a5896a",
+                "lat": 33.421715,
+                "lon": -111.943849,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "617485cc-6a79-461d-b9f1-891af8178d0f",
+                "lat": 33.432285,
+                "lon": -111.946707,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a4cf1ae1-7b91-423d-8d9d-fcd30591ef0f",
+                "lat": 33.432653,
+                "lon": -111.952384,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "39c07fcc-fab6-479e-b47b-952de47227f5",
+                "lat": 33.427604,
+                "lon": -111.940062,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "3e112e18-1a97-4ac9-8207-f577d15c3223",
+                "lat": 33.42496,
+                "lon": -111.940131,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "52bf055a-243c-42d0-af55-6cc477a3db91",
+                "lat": 33.423396,
+                "lon": -111.942299,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c13be4d8-d4fe-412e-984a-4eb7561a3173",
+                "lat": 33.431583,
+                "lon": -111.9524,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "bb7ff515-2339-4158-909e-650df61d2e06",
+                "lat": 33.415923,
+                "lon": -111.921686,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6735017f-f89c-4658-89cd-71cbf5889555",
+                "lat": 33.431831,
+                "lon": -111.942241,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e6757ac8-7db5-41f4-a86f-8840fb403fa7",
+                "lat": 33.430342,
+                "lon": -111.949968,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6288e54d-4a3c-4978-95ab-e9e365a10bb3",
+                "lat": 33.418895,
+                "lon": -111.95697,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a77ffce9-ed48-4ecd-b08e-0cc6ee312718",
+                "lat": 33.431426,
+                "lon": -111.942712,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "555554f8-e16d-4375-b67b-d935095598d5",
+                "lat": 33.414958,
+                "lon": -111.925477,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1a06b44d-a554-4969-890d-091b9f2729c6",
+                "lat": 33.421878,
+                "lon": -111.941094,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4bd3e446-8b6f-4d2f-bca9-2e47ca898d2b",
+                "lat": 33.438228,
+                "lon": -111.951454,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a0acae99-fab9-4712-9176-6896b54af7f7",
+                "lat": 33.429584,
+                "lon": -111.945069,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2fd2ad01-698d-4dda-9ad8-21b66f83db19",
+                "lat": 33.431293,
+                "lon": -111.94159,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "49561cc2-20da-4dc4-8d31-eaf18f797c50",
+                "lat": 33.431243,
+                "lon": -111.941612,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "64f0bc69-0c2e-406c-bb7d-ed0b21620dfc",
+                "lat": 33.415096,
+                "lon": -111.921929,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d3acda5e-459c-46f3-a7fd-a76196be9dce",
+                "lat": 33.431835,
+                "lon": -111.942262,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "26be03e5-2d1e-4e4a-b53e-10345ed322df",
+                "lat": 33.41547,
+                "lon": -111.917755,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d49cd4a8-e4b9-4351-9e6b-0eebd803f55c",
+                "lat": 33.434418,
+                "lon": -111.934052,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "fa4c2bb1-5629-4f2d-8ac7-45c9d6fe8bad",
+                "lat": 33.431751,
+                "lon": -111.942506,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1388b514-f18f-44c2-90b4-528e8e790abc",
+                "lat": 33.427318,
+                "lon": -111.941117,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2eb8c304-9587-4ace-8ad5-8ed9df66daf3",
+                "lat": 33.428345,
+                "lon": -111.944222,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "cbcf5498-3526-467b-9c82-0b1238af2199",
+                "lat": 33.432468,
+                "lon": -111.915007,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "4f703003-9aaa-4210-911e-6ccc17813964",
+                "lat": 33.434696,
+                "lon": -111.92173,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "70d663e3-a0ce-4630-bb0f-067a46d1cf38",
+                "lat": 33.409899,
+                "lon": -111.93255,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e4723261-892a-4c61-99c8-a01a65daa97b",
+                "lat": 33.420101,
+                "lon": -111.901284,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "36199283-3832-40db-aba8-15827b53c4fb",
+                "lat": 33.435256,
+                "lon": -111.942207,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a38adcd0-2a30-4ce8-95b8-a1abd2267181",
+                "lat": 33.43203,
+                "lon": -111.940044,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c4566d01-9c33-4532-b921-ade896404b48",
+                "lat": 33.43161,
+                "lon": -111.952415,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e628d292-90c4-4336-8d24-1e753864b2f3",
+                "lat": 33.429386,
+                "lon": -111.909219,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "62aa8c36-1438-40a7-a521-249292dccf47",
+                "lat": 33.414966,
+                "lon": -111.925469,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "355ce8c0-b8bf-4167-8ddc-e4db53d6cfd5",
+                "lat": 33.428955,
+                "lon": -111.942593,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "ddbdd8ed-e00d-4dca-8cb2-fab68b24717d",
+                "lat": 33.425205,
+                "lon": -111.944497,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0ef9de71-3907-4e5b-be5f-d1dfc57b72a5",
+                "lat": 33.422954,
+                "lon": -111.939781,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a9bf5c6e-935f-4d90-b63e-58b9138c599c",
+                "lat": 33.431301,
+                "lon": -111.942712,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "eac4335e-5a1a-4274-949a-09c867d792fa",
+                "lat": 33.431844,
+                "lon": -111.938087,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b75eb22d-0bd5-4fed-a172-e3e06b312f9a",
+                "lat": 33.43246,
+                "lon": -111.949982,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5683099a-4f13-4328-a2b7-8555239f3623",
+                "lat": 33.421886,
+                "lon": -111.937562,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9170df81-6726-4d28-a396-5ab223642dfd",
+                "lat": 33.435013,
+                "lon": -111.925347,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b0d778f9-e814-4d4d-adf2-dba4dc02f6ce",
+                "lat": 33.432426,
+                "lon": -111.949852,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b57edee7-9889-4894-a2c4-a7f2ca75eac9",
+                "lat": 33.421791,
+                "lon": -111.954399,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "15c59fa3-8882-4148-93c0-318d41c5bdaf",
+                "lat": 33.432405,
+                "lon": -111.949549,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "a51433f0-924a-4111-aa20-888e71d83550",
+                "lat": 33.431797,
+                "lon": -111.941429,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c883effd-f8b1-4cde-a52b-da4987e6fdfb",
+                "lat": 33.435436,
+                "lon": -111.942437,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "6f7be6c7-b2a7-422d-a85a-31bfd883d7a1",
+                "lat": 33.422386,
+                "lon": -111.938119,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3d086490-f02b-40b5-93b1-c5c80846ce9a",
+                "lat": 33.416973,
+                "lon": -111.92601,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "db0c9445-148d-440a-8575-ef3cf27f6bb4",
+                "lat": 33.432651,
+                "lon": -111.9524,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e1414686-aa56-4cdd-977f-bb542ad4d0a3",
+                "lat": 33.432708,
+                "lon": -111.952439,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "55eea508-38e6-4164-872b-ad4233e7ebb0",
+                "lat": 33.409461,
+                "lon": -111.945481,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4b3d0632-67b3-4507-bf00-9ba810ffbbed",
+                "lat": 33.435115,
+                "lon": -111.941286,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b9cc2d83-42c0-407e-97e6-5a8fa7c22106",
+                "lat": 33.429301,
+                "lon": -111.940369,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "a7864ffd-1887-4991-9016-517333ca1faa",
+                "lat": 33.421917,
+                "lon": -111.94035,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "97f5ef31-8635-4cf1-a40e-a482a7cb635e",
+                "lat": 33.431591,
+                "lon": -111.934792,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "cd4d5876-afd0-4030-b006-ba83c0da8176",
+                "lat": 33.432713,
+                "lon": -111.952424,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8429ab96-9277-4201-af0b-f17d328d7a82",
+                "lat": 33.431079,
+                "lon": -111.942679,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4d8d493f-764f-4f1d-ba73-b47fcb8b7cd3",
+                "lat": 33.423511,
+                "lon": -111.957825,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e6d3cb42-4f0b-46b2-8cc3-de5fbaf8ce2e",
+                "lat": 33.424838,
+                "lon": -111.940005,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "aacfeb25-d0b8-4d59-8e19-f22b877d38ed",
+                "lat": 33.429151,
+                "lon": -111.884075,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "14de0274-40d5-4d81-b263-3288487adbde",
+                "lat": 33.41462,
+                "lon": -111.920602,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8d5d8ebd-108b-4302-9814-f572778ca40b",
+                "lat": 33.43388,
+                "lon": -111.932305,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d1bc04bf-8547-4b95-9146-2dcb260c8b5e",
+                "lat": 33.432731,
+                "lon": -111.95243,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "86ae7c34-7a8c-4645-a7ed-356ae07ff3ca",
+                "lat": 33.400363,
+                "lon": -111.924622,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4f8bc7d3-0207-40a1-9d46-2cc43992767c",
+                "lat": 33.424523,
+                "lon": -111.941279,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "69a81906-52dc-4a53-8919-49815940d53c",
+                "lat": 33.42807,
+                "lon": -111.957956,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "fa9ff006-d571-403e-b1dc-27d62b8c327f",
+                "lat": 33.379502,
+                "lon": -111.92691,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "2cab183e-5082-4c20-bcca-f7519f11a36b",
+                "lat": 33.425594,
+                "lon": -111.940969,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0e249c4b-8322-4dbc-97fc-8e24c90baa1e",
+                "lat": 33.43283,
+                "lon": -111.953127,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "eaf3397b-39ab-48fe-af3f-5bbbaeafff3c",
+                "lat": 33.432495,
+                "lon": -111.949594,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "91b4a8a8-d5b4-4c51-a186-eb33ca2c68b3",
+                "lat": 33.432181,
+                "lon": -111.946427,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "050a2d7e-702a-4bd1-8b7d-874abba18dc3",
+                "lat": 33.43148,
+                "lon": -111.942627,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9656916d-4272-4928-bd7a-4d411b905060",
+                "lat": 33.436195,
+                "lon": -111.91893,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "419817a0-1b59-442f-b512-992aee0822c4",
+                "lat": 33.425594,
+                "lon": -111.940969,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "055aaaef-0f9c-48c7-abfd-e6fea65ec8a5",
+                "lat": 33.435756,
+                "lon": -111.942314,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "11a2ee5f-71ff-45b3-b324-eac0145386b1",
+                "lat": 33.411021,
+                "lon": -111.95739,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f5058ec7-76a2-42f1-aa11-372abc42616b",
+                "lat": 33.431968,
+                "lon": -111.940091,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "4d41fee8-8603-43ce-975e-e85a8daeaf52",
+                "lat": 33.375779,
+                "lon": -111.941509,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b60253fb-5806-4918-bd71-1af33fcade53",
+                "lat": 33.432,
+                "lon": -111.940019,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5074d453-4408-48b9-933e-f7d3cc74f70d",
+                "lat": 33.425281,
+                "lon": -111.936784,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0a20ed18-8cc4-446d-b51e-facad0f2800e",
+                "lat": 33.430331,
+                "lon": -111.940972,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e6db10c0-891b-4437-a1de-f68a3a52b0e5",
+                "lat": 33.430512,
+                "lon": -111.941153,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "3e55d01e-13aa-48ee-b97c-f1acdd967eb4",
+                "lat": 33.422088,
+                "lon": -111.912682,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c8edf967-b608-4ad0-bcfc-8c42507fe5f3",
+                "lat": 33.434493,
+                "lon": -111.934043,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e66f8082-7ccc-410a-ba44-42dc33c42cab",
+                "lat": 33.429277,
+                "lon": -111.939996,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5e09a239-fb44-44bd-826c-9bb69b42ed05",
+                "lat": 33.376101,
+                "lon": -111.94194,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b0845a23-0a18-4332-aa7d-336b1462129a",
+                "lat": 33.427186,
+                "lon": -111.940199,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "da733eb6-541a-487b-8ed5-cb5d4887a43b",
+                "lat": 33.435025,
+                "lon": -111.942207,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "1b1ee96e-32f0-4d18-aa42-284112543e16",
+                "lat": 33.43475,
+                "lon": -111.943436,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2b1f0169-523b-4642-b3f9-4b15c9fb2903",
+                "lat": 33.42559,
+                "lon": -111.94059,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "776569cd-a415-4b31-afa5-c9b36374aa7c",
+                "lat": 33.420049,
+                "lon": -111.925942,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "679f7dcd-d34b-4d6c-8115-30c03276cf25",
+                "lat": 33.432808,
+                "lon": -111.952919,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "aa5ffa83-71bc-4097-a0c2-cc5a34a4cdcc",
+                "lat": 33.431979,
+                "lon": -111.940025,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "71ee27d7-9190-4aaf-8e25-ca475fb1c72a",
+                "lat": 33.431296,
+                "lon": -111.942147,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9cc2345a-092d-4164-be87-8220f274152b",
+                "lat": 33.415204,
+                "lon": -111.893496,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "64797aae-4982-43f5-8755-5112028327be",
+                "lat": 33.431476,
+                "lon": -111.942719,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "499ceb33-0a2a-4242-8405-89d8d01e0f9c",
+                "lat": 33.406353,
+                "lon": -111.918587,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b04c8d3e-1c41-4bb7-8c9c-45fc6d56dfca",
+                "lat": 33.420593,
+                "lon": -111.924134,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "f46c2129-9c5d-4dac-9066-5e916d15ea5a",
+                "lat": 33.43148,
+                "lon": -111.942627,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "240b921f-6723-4a21-a145-02c5e5648233",
+                "lat": 33.430474,
+                "lon": -111.941072,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c8150fa4-1e72-421e-90d6-20c93fd93517",
+                "lat": 33.420628,
+                "lon": -111.924225,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7216ffcd-a785-41c0-9363-b0644b606a68",
+                "lat": 33.419951,
+                "lon": -111.901139,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "e44f2bd5-c59e-4c33-9f35-9283eaa97636",
+                "lat": 33.424523,
+                "lon": -111.941279,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "32385425-7764-4220-83aa-c22fc6462014",
+                "lat": 33.424409,
+                "lon": -111.940565,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "e2df9891-3c04-4e6a-8da3-e931d44e2b8a",
+                "lat": 33.435351,
+                "lon": -111.943261,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "5454c8b5-ad7c-4821-acd8-95ef9bc7b5e2",
+                "lat": 33.388446,
+                "lon": -111.942009,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0da81c8b-abcb-4e85-a88e-90e77a411bfe",
+                "lat": 33.432653,
+                "lon": -111.952384,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7e3ebeb2-4d2f-4be8-9ba2-945dd5b8a489",
+                "lat": 33.422122,
+                "lon": -111.94455,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "7456bc06-0e96-4a50-a7dd-01be0c5151f4",
+                "lat": 33.422055,
+                "lon": -111.944367,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "195ae7ff-1865-4d6e-a072-c26bf9e29add",
+                "lat": 33.431255,
+                "lon": -111.942695,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8ec07a19-01d1-4e85-94c4-91af52c54381",
+                "lat": 33.424248,
+                "lon": -111.938995,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "acb81000-a950-46b5-99ad-9b5154372bb3",
+                "lat": 33.435413,
+                "lon": -111.943612,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "692b4fc9-6601-4069-b18d-5cc141c2a4e5",
+                "lat": 33.432436,
+                "lon": -111.949622,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0caa7088-9ea6-4274-95d9-44920c62ba71",
+                "lat": 33.429277,
+                "lon": -111.939996,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "88fc0e03-df90-4eea-8844-d70e73a8c817",
+                "lat": 33.43511,
+                "lon": -111.942225,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "0bf3c944-dbe8-4497-8114-d00fd1728678",
+                "lat": 33.375396,
+                "lon": -111.941887,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "82f54c82-6b58-4dc4-9e72-ccbf92ad477e",
+                "lat": 33.409553,
+                "lon": -111.917672,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "2615ff19-b298-4281-9714-4915a8079b8e",
+                "lat": 33.429182,
+                "lon": -111.949542,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "350d19f9-6f5c-4e9c-a891-18fdf32b755a",
+                "lat": 33.432558,
+                "lon": -111.952964,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "b30b84c7-feb8-44c5-b72e-be1b83a86b2d",
+                "lat": 33.433027,
+                "lon": -111.903464,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c9c4b682-a568-4782-9bd6-46be5289bda7",
+                "lat": 33.426453,
+                "lon": -111.940185,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "826c07f3-88ce-4c40-9e26-8ea04348c3ae",
+                "lat": 33.42543,
+                "lon": -111.938942,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c85ca08b-1824-430c-8dff-80f3bc39bc3e",
+                "lat": 33.431789,
+                "lon": -111.942243,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "cbb3b79d-767f-49cd-a665-788334adf674",
+                "lat": 33.430522,
+                "lon": -111.941163,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "88688a5b-da61-4b37-8747-d6dfaa9021a1",
+                "lat": 33.431568,
+                "lon": -111.952409,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "c424d36f-31c5-4e31-aa66-f992a55d3677",
+                "lat": 33.422482,
+                "lon": -111.942188,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "8ec96832-5cbc-4c0d-8acd-025b89e939e2",
+                "lat": 33.414958,
+                "lon": -111.925477,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "62bdca8b-4724-4e3a-b6ec-a9fdd73766ef",
+                "lat": 33.42251,
+                "lon": -111.942218,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "d142cbfc-b82e-4df5-8713-31f1736748c5",
+                "lat": 33.42812,
+                "lon": -111.947357,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "9bcd967e-c0e3-4f85-99f6-1c1dd949b5a7",
+                "lat": 33.43297,
+                "lon": -111.95407,
+                "is_disabled": 0,
+                "is_reserved": 1
+            },
+            {
+                "bike_id": "f42ec354-c711-498e-bf8b-8472912c97c1",
+                "lat": 33.431358,
+                "lon": -111.932969,
+                "is_disabled": 0,
+                "is_reserved": 0
+            },
+            {
+                "bike_id": "acf6929c-b043-4ace-89bf-08f695d41251",
+                "lat": 33.430316,
+                "lon": -111.926415,
+                "is_disabled": 0,
+                "is_reserved": 0
+            }
+        ]
+    },
+    "last_updated": 1630050859,
+    "ttl": 60
+}

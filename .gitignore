@@ -1,0 +1,11 @@
+*.tfstate
+*.tfstate.backup
+.terraform
+.terraform.lock.hcl
+src/*
+!src/lambda_function.py
+!src/tests.py
+!src/requirements.txt
+!src/requirements-tests.txt
+!src/testFiles/
+.tmp/
